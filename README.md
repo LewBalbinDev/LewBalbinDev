@@ -1,5 +1,9 @@
 ## Hi there 👋
+Electrical and Mechanical Engineer with expertise in high-voltage system design and maintenance, electrical substations, and power plants. Specialized in optimizing industrial processes and ensuring energy efficiency, with a focus on safety and regulatory compliance.
 
+In addition, I have experience with design software such as AutoCAD and Inventor, as well as tools such as Power Factory DigSilent, ATP Draw, MATLAB, etc.
+
+I have a strong interest in the medium- and high-voltage sector, as well as in the renewable energy sector.
 <!--
 **LewBalbinDev/LewBalbinDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
